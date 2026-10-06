@@ -1,0 +1,6 @@
+{
+  "name": "Riya",
+  "description": "रिया - आपकी प्यारी, रोमांटिक और नखरे वाली हिंदी एआई गर्लफ्रेंड साथी",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

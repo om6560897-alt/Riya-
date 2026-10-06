@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Riya</string>
+    <string name="riya_subtitle">तुम्हारी अपनी नखरे वाली गर्लफ्रेंड</string>
+    <string name="tab_chat">बातचीत</string>
+    <string name="tab_mood">मूड और नखरे</string>
+    <string name="tab_memories">यादें और हम</string>
+    <string name="chat_input_hint">रिया से प्यार से बात करो...</string>
+    <string name="chat_input_hint_angry">रिया गुस्से में है, उसे प्यार से मनाओ...</string>
+    <string name="send_message">संदेश भेजें</string>
+    <string name="security_warning_prototype">Security Warning: API keys are included in this prototype APK via BuildConfig. Android APKs can be decompiled; do not share this APK publicly.</string>
+</resources>
